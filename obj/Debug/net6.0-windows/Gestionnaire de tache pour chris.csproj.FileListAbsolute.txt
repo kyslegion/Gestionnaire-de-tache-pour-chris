@@ -1,0 +1,19 @@
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Gestionnaire de tache pour chris.exe
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Gestionnaire de tache pour chris.deps.json
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Gestionnaire de tache pour chris.runtimeconfig.json
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Gestionnaire de tache pour chris.dll
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Gestionnaire de tache pour chris.pdb
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.csproj.AssemblyReference.cache
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire_de_tache_pour_chris.Form1.resources
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.csproj.GenerateResource.cache
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.AssemblyInfoInputs.cache
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.AssemblyInfo.cs
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.csproj.CoreCompileInputs.cache
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.dll
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\refint\Gestionnaire de tache pour chris.dll
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.pdb
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.genruntimeconfig.cache
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\ref\Gestionnaire de tache pour chris.dll
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\shoot\source\repos\Gestionnaire de tache pour chris\Gestionnaire de tache pour chris\obj\Debug\net6.0-windows\Gestionnaire de tache pour chris.csproj.CopyComplete
